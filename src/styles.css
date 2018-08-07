@@ -1,0 +1,22 @@
+.body {
+  max-width: 70%;
+  margin: 0 auto;
+}
+.form-signin{
+  max-width:35%;
+  margin:0 auto;
+}
+.Create-Contact{
+  max-width: 60%;
+  margin: 0 auto;
+}
+
+.show-by-id{
+  margin: 0 auto;
+  max-width:60%;
+}
+
+.edit-contact{
+  margin:0 auto;
+  max-width:60%;
+}
